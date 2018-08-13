@@ -1,0 +1,10 @@
+#nav-main{
+    border-bottom: 1px solid rgba(0,0,0,.0625);
+}
+.navbar-brand img{
+    height: 30px;
+    width: auto;
+    margin-right: 10px;
+    transform: translateY(-2px);
+}
+
